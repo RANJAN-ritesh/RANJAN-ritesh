@@ -18,7 +18,8 @@
 
 
 ### Languages and Tools:
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />]
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />]
 
 
 
