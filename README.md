@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Learn more about Programming and web3
 - ⚡ Fun fact: I love to play Chess
-
+<img align="right" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" width="300" height="200"/>
 
 
 ### Languages and Tools:
