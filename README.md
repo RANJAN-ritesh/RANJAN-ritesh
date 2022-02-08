@@ -14,8 +14,8 @@
 
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ritesh-ranjan-71a410218/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ritesh-ranjan-71a410218/#gh-dark-mode-only)
+(https://www.linkedin.com/in/ritesh-ranjan-71a410218/)
+
 &nbsp;&nbsp;
 
 
