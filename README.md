@@ -11,14 +11,14 @@
 
 ### Languages and Tools:
 <p>
-    <img  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"  />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img  width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"  />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
