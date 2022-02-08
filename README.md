@@ -1,7 +1,9 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-<!--
-**RANJAN-ritesh/RANJAN-ritesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋,I'm Ritesh Ranjan
+
+Curious and Solution driven Full Stack Web Developer skilled in MERN Stack. 
+<!-- **RANJAN-ritesh/RANJAN-ritesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
