@@ -1,7 +1,6 @@
 # Hi there, I'm RITESH RANJAN 👋 
 
 ## Driven and Curious Full Stack Web Developer skilled in MERN Stack.!!
-=======
 
 - 🌱 I’m currently learning MERN stack and Data structure and Algorithms.
 - 👯 I’m looking to collaborate with other content creators.
@@ -31,17 +30,17 @@
 </p>
 
 <br></br>
+<br></br>
 
 ### Connect with me:
 <p>
 
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ritesh-ranjan-71a410218/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ritesh-ranjan-71a410218/#gh-dark-mode-only)
 &nbsp;&nbsp;
     </p>
 
-=======
 
 
