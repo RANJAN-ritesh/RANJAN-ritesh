@@ -8,18 +8,10 @@
 - ⚡ Fun fact: I love to play Chess
 
 
-### Connect with me:
-
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ritesh-ranjan-71a410218/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ritesh-ranjan-71a410218/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 
 ### Languages and Tools:
 <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;
@@ -39,7 +31,13 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RANJAN-ritesh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 
+### Connect with me:
 
-[linkedin]: https://www.linkedin.com/in/ritesh-ranjan-71a410218
+
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ritesh-ranjan-71a410218/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ritesh-ranjan-71a410218/#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 
 
