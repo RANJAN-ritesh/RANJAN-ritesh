@@ -14,7 +14,7 @@
     <img  width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img  width="30px" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img   src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img  width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img  width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
