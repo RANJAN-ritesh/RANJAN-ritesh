@@ -32,14 +32,11 @@
 <br></br>
 <br></br>
 
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp; 
-    </p>
 ### Connect with me:
 <p>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ritesh-ranjan-71a410218/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ritesh-ranjan-71a410218/#gh-dark-mode-only)
 &nbsp;&nbsp;
