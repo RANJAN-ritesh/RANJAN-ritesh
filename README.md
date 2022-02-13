@@ -1,6 +1,6 @@
 # Hi there, I'm RITESH RANJAN 👋 
 
-## Driven and fast-learning full-stack developer with specialization <br/> in MERN, Stack and HTML.  Looking forward to honing my skills in <br/> a challenging work environment.
+## Driven and fast-learning full-stack developer with specialization in <br/> MERN, Stack and HTML.  Looking forward to honing my skills in <br/> a challenging work environment.
 
 - 🌱 I’m currently learning MERN stack and Data structure and Algorithms.
 - 👯 I’m looking to collaborate with other content creators.
