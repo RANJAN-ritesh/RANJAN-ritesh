@@ -2,7 +2,7 @@
 
 ## Driven and fast-learning full-stack developer with specialization in <br/> MERN, Stack and HTML.  Looking forward to honing my skills in <br/> a challenging work environment.
 
-- 🌱 I’m MERN Developer and Educator , with an experience of 2+ years.
+- 🌱 I’m MERN Developer and Educator , with an experience of 3+ years.
 - 👯 I’m looking to collaborate with other content creators.
 <img align="right" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" width="350" height="250" />
 
